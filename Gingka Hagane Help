@@ -11,7 +11,7 @@ Moderation Commands
 !set welcome <channel id> - Sets welcome message to the channel
 !set leave <channel id> - Sets goodbye message to the channel
 
-----------------------------------------------
+------------------------------------------
 
 Fun commands
 
@@ -33,7 +33,7 @@ Fun commands
 !imgsay <message> - Sends image with your text
 !ship <message> <message> - Matches between two person
 
-----------------------------------------------
+------------------------------------------
 
 Math commands
 
@@ -42,7 +42,7 @@ Math commands
 !math × number number - Multiples the numbers
 !math ÷ number number - Divides the numbers
 
-----------------------------------------------
+------------------------------------------
 
 Economy Commands
 
@@ -54,7 +54,7 @@ Economy Commands
 !inventory - See how many item you have
 !sell <item name> - Sell a item that you have in your inventory
 
-----------------------------------------------
+------------------------------------------
 
 Anime Commands
 
@@ -62,7 +62,7 @@ Anime Commands
 !pat @user - Pat mentioned user
 !slap @user - Slap mentioned user
 
-----------------------------------------------
+------------------------------------------
 
 Normal commands
 
